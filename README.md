@@ -17,7 +17,7 @@ This program is my version of solving the MNIST Digit data set. It allows the us
 
 You can also run Golf-Game in Gitpod, a free online dev environment for GitHub:
 
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sam9532/Guess-number/blob/master/drawNumber.py)
 
